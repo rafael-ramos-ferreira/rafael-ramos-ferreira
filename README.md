@@ -20,21 +20,26 @@ Inherently **friendly** and keen on helping everyone.
 
 # 📊 GitHub Stats:
 
-<center>
+<div align="center">
 
-![](https://github-readme-stats.shion.dev/api?username=rafael-ramos-ferreira&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br>
-![](https://streak-stats.demolab.com/?user=rafael-ramos-ferreira&theme=nightowl&hide_border=false)<br>
+![](https://github-readme-stats.shion.dev/api?username=rafael-ramos-ferreira&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=rafael-ramos-ferreira&theme=nightowl&hide_border=false)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rafael-ramos-ferreira&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</center>
+</div>
 
 ### ✍️ (Hopefully) Motivational Dev Quote
 
-<center>
+---
+
+<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
 
-</center>
+</div>
+
 
 <!-- Credits given to GPRM for the template
 and idea (https://gprm.itsvg.in) -->
